@@ -1,0 +1,22 @@
+ .carousel{
+    margin-top: 127px;
+    /* height: 100vh !important; */
+}
+
+.c-item{
+    height: 610px;
+}
+.c-image{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+.carousel-caption{
+    margin-top: -20px !important;
+}
+.shop{
+    padding: 10px 20px;
+    background-color: var(--light-red);
+    color: #000;
+    font-weight: bold;
+}
